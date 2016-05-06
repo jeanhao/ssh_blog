@@ -1,0 +1,51 @@
+
+.top1{background:#FFFFFF;width:1366px;height:40px;margin:0px;padding:0px;}
+	.tp{ position:absolute;top:7px;left:100px;}
+	h1{position:absolute;
+		top:50px;left:250px;color:white;font-size:35px;}
+	h3{position:absolute;font-weight: normal;
+		top:130px;left:250px;color:white;
+		width:420px;height:100px;}
+	.language-choice{position:absolute;right:100px;top:8px;}
+	.language-choice select{
+   width: 130px;
+   font-size: 13px;
+   border:hidden;
+  -webkit-appearance: none;
+   height: 17px;
+   background-color:#FFFFFF;
+   background: url(http://images.cnblogs.com/cnblogs_com/shishm/201203/20120302110411201.jpg) no-repeat right #ddd;;}
+	.user-out{height:140px;width:290px;background:#FFFFFF;margin:0;border-radius:7px;}
+	.user-in{position:relative;left:21px;top:10px;}
+	.new-user-out{height:180px;width:290px;background:#FFFFFF;margin:0;border-radius:7px;}
+	.new-user-in{position:relative;left:23px;top:2px;}
+	a{text-decoration:none;color:white;}
+	.c3{color:white;}
+	ul{list-style:none;
+		font-size:9px;
+		position:absolute;
+		left:100px;}
+	.copyright{font-size:9px;}
+	span{font-size:22px;}
+	input.sb1{
+		font-size: 10pt;
+		font-style: normal;
+		font-variant: normal;
+		font-weight: normal;
+		height: 27px;
+		width: 65px;
+		line-height: normal;
+		background-color:#0099FF;	
+		border:hidden;#0033CC;border-radius:5px;}
+	input.sb2{
+		color:black;
+		font-size:5pt;
+		font-style: normal;
+		font-variant: normal;
+		font-weight: normal;
+		height: 32px;
+		width: 100px;
+		line-height: normal;
+		background-color:#FF9933;
+		border:hidden;#FF9900;;border-radius:5px;}
+		.list{font-size:13px;}
